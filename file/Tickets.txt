@@ -1,2 +1,3 @@
-Ridwan,Dhaka,Ctg,1-Jan,10:00 AM,Economy,BG101,Veg,Ins Luggage ,None
-Ridwan,Dhaka,Ctg,1-Jan,10:00 AM,Business,BG101,Veg,Ins Luggage ,None
+Ridwan,Dhaka,Ctg,1-Jan,10:00 AM,Economy,BG101,Veg,Ins Luggage,None
+Ridwan,Dhaka,Ctg,1-Jan,10:00 AM,Business,BG101,Veg,Ins Luggage,None
+gh,Dhaka,Chittagong,22/01/2026,08:00 AM,Economy,SkyExpress 101 BG101,None,,

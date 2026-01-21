@@ -2,7 +2,6 @@ package Entity;
 
 public class Ticket extends TicketThing {
 
-    // Changed to protected so BusinessTicket can access them directly
     protected String passengerName;
     protected String source;
     protected String destination;
@@ -14,7 +13,6 @@ public class Ticket extends TicketThing {
     protected String services;
     protected String remarks;
 
-    // Updated Constructor
     public Ticket(String passengerName, String source, String destination, String travelDate, String departureTime, String seatType, String flightNumber, String meal, String services, String remarks) {
         this.passengerName = passengerName;
         this.source = source;
@@ -32,7 +30,6 @@ public class Ticket extends TicketThing {
         return passengerName; 
     }
 
-    // Updated toTxt to save new fields (10 items total)
     public String toTxt() {
         return passengerName + "," + source + "," + destination + "," + travelDate + "," + departureTime + "," + seatType + "," + flightNumber + "," + meal + "," + services + "," + remarks;
     }

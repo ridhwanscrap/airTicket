@@ -324,7 +324,7 @@ public class AirlineTicketSystem extends JFrame implements ActionListener, Mouse
     {
         try 
         {
-            File file = new File("Tickets.txt");
+            File file = new File("file/Tickets.txt");
             if(!file.exists()) file.createNewFile();
             
             FileWriter fwriter = new FileWriter(file, false); 
