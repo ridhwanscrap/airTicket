@@ -239,8 +239,10 @@ public class AirlineTicketSystem extends JFrame implements ActionListener, Mouse
             String flight = flightCombo.getSelectedItem().toString();
             
             String meal = "None";
-            if(mealVeg.isSelected()) meal = "Veg";
-            else if(mealNonVeg.isSelected()) meal = "Non-Veg";
+            if(mealVeg.isSelected()) 
+                {meal = "Veg";}
+            else if(mealNonVeg.isSelected()) 
+                {meal = "Non-Veg";}
             
             String svcs = serviceTF.getText();
             if(insuranceCheck.isSelected()) {
