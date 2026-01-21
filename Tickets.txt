@@ -1,0 +1,5 @@
+ridwan,Dhaka,Chittagong,22/01/2026,08:00 AM,Economy,SkyExpress 101 BG101,Non-Veg,Insurance,Luggage
+ridwan,Dhaka,Chittagong,22/01/2026,08:00 AM,Economy,SkyExpress 101 BG101,Non-Veg,aaa,Insurance
+Ridwan,Dhaka,Chittagong,22/01/2026,08:00 AM,Economy,SkyExpress 101 BG101,Veg,Insurance,Luggage
+ridwan,Dhaka,Chittagong,22/01/2026,08:00 AM,Economy,SkyExpress 101 BG101,None,Insurance,aaa
+ridwan,Dhaka,Chittagong,22/01/2026,08:00 AM,Economy,SkyExpress 101 BG101,None,Insurance, Luggage,
