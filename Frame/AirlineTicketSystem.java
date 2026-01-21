@@ -346,7 +346,7 @@ public class AirlineTicketSystem extends JFrame implements ActionListener, Mouse
     public void loadData()
     {
         try {
-            File file = new File("Tickets.txt");
+            File file = new File("file/Tickets.txt");
             if (!file.exists()) return; 
 
             Scanner scanner = new Scanner(file);
